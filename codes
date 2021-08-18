@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystac
 
 Crystal Central Current Verison [ -- NOT DISCONTINUED -- ]
 -- v to close
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/CrystalCentralV3"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/BROSTOPUSINGPASTEBIN"))()
 
 [[ Some of these verison might require you to be in this group: https://www.roblox.com/groups/11358596/Crystal-Central#!/about ]] 
 
