@@ -1,51 +1,31 @@
 
-░█████╗░██╗░░░██╗██████╗░░██████╗████████╗░█████╗░██╗░░░░░  ░█████╗░███████╗███╗░░██╗████████╗██████╗░░█████╗░██╗░░░░░
-██╔══██╗╚██╗░██╔╝██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██║░░░░░  ██╔══██╗██╔════╝████╗░██║╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░
-██║░░╚═╝░╚████╔╝░██████╔╝╚█████╗░░░░██║░░░███████║██║░░░░░  ██║░░╚═╝█████╗░░██╔██╗██║░░░██║░░░██████╔╝███████║██║░░░░░
-██║░░██╗░░╚██╔╝░░██╔══██╗░╚═══██╗░░░██║░░░██╔══██║██║░░░░░  ██║░░██╗██╔══╝░░██║╚████║░░░██║░░░██╔══██╗██╔══██║██║░░░░░
-╚█████╔╝░░░██║░░░██║░░██║██████╔╝░░░██║░░░██║░░██║███████╗  ╚█████╔╝███████╗██║░╚███║░░░██║░░░██║░░██║██║░░██║███████╗
-░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝  ░╚════╝░╚══════╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
+░█████╗░██████╗░██╗░░░██╗░██████╗████████╗░█████╗░██╗░░░░░  ░█████╗░███████╗███╗░░██╗████████╗██████╗░░█████╗░██╗░░░░░
+██╔══██╗██╔══██╗╚██╗░██╔╝██╔════╝╚══██╔══╝██╔══██╗██║░░░░░  ██╔══██╗██╔════╝████╗░██║╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░
+██║░░╚═╝██████╔╝░╚████╔╝░╚█████╗░░░░██║░░░███████║██║░░░░░  ██║░░╚═╝█████╗░░██╔██╗██║░░░██║░░░██████╔╝███████║██║░░░░░
+██║░░██╗██╔══██╗░░╚██╔╝░░░╚═══██╗░░░██║░░░██╔══██║██║░░░░░  ██║░░██╗██╔══╝░░██║╚████║░░░██║░░░██╔══██╗██╔══██║██║░░░░░
+╚█████╔╝██║░░██║░░░██║░░░██████╔╝░░░██║░░░██║░░██║███████╗  ╚█████╔╝███████╗██║░╚███║░░░██║░░░██║░░██║██║░░██║███████╗
+░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝  ░╚════╝░╚══════╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
+
+██╗░░██╗  ███╗░░██╗░█████╗░██╗░░░██╗░█████╗░  ░██████╗░██╗░░░██╗██╗
+╚██╗██╔╝  ████╗░██║██╔══██╗██║░░░██║██╔══██╗  ██╔════╝░██║░░░██║██║
+░╚███╔╝░  ██╔██╗██║██║░░██║╚██╗░██╔╝███████║  ██║░░██╗░██║░░░██║██║
+░██╔██╗░  ██║╚████║██║░░██║░╚████╔╝░██╔══██║  ██║░░╚██╗██║░░░██║██║
+██╔╝╚██╗  ██║░╚███║╚█████╔╝░░╚██╔╝░░██║░░██║  ╚██████╔╝╚██████╔╝██║
+╚═╝░░╚═╝  ╚═╝░░╚══╝░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝  ░╚═════╝░░╚═════╝░╚═╝
 
 Crystal Central Verison One [ -- DISCONTINUED -- ]
 
 -- v to close
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/v1", true))()
 
-Crystal Central Verison 2 [ -- DISCONTINUED -- ]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/v2xd", true))()
-
-Crystal Central Verison 3 [ -- DISCONTINUED -- ]
-
--- right crtl to close
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/v3dlol", true))()
-
-Crystal Central Current Verison [ -- NOT DISCONTINUED -- ]
+Crystal Central [ -- NOT DISCONTINUED -- ]
 -- v to close
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/BROSTOPUSINGPASTEBIN"))()
 
-[[ Some of these verison might require you to be in this group: https://www.roblox.com/groups/11358596/Crystal-Central#!/about ]] 
-
-
-Crystal Central Crash [ -- UNPTACHED / DISCONTINUED -- ]
-
--- [[ 
-It takes 5 - 10 minutes.
-
-Requirements:
-10k Crash
+Sever Crash [ Have 10k cash ] 
 In Group: https://www.roblox.com/groups/11358596/Crystal-Central#!/about
-Credits:
-
-@AFK GOING ON VACATION DM = BLOCK - Active Tester
-@∮ ℟isna  - Active Teser
-@Nighter - Helper
-@Crystal Central - Owner
-
-Script:
 getgenv().CreditsCrystalCentral = true -- disable = not work
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/crashnewcc"))()
-
--- ]] 
 
 Crystal Central Aimlock  [ -- NOT DISCONTINUED -- ]
 Q To Lock/Unlock
@@ -54,14 +34,19 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystac
 Swagmode No Mod Prems
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/swagnomodusers"))()
 
-
-[[ ALL OTHER CODES NOT RELEATED TO DA HOOD CAN BE FIND AT ON MY PASTEBIN, https://pastebin.com/u/Crystal_Central ]] 
-
+Crystal Central's Group, https://www.roblox.com/groups/11358596/Crystal-Central#!/about.
 
 
+---------------------------------------------------------------------------------------------
 
+-- // - Nova Gui - Arsenal - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-Arsenal/main/README.md", true))()
 
+-- // - Nova Gui - Murder Mystery 2 - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-Murder-Mystery/main/README.md", true))()
 
+-- // - Nova Gui - The Maze - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/NovasGuiTheMaze/main/README.md", true))()
 
-
-Most of these codes require you to be in crystal central's group, https://www.roblox.com/groups/11358596/Crystal-Central#!/about.
+-- // Nova Gui - Da Hood - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-New/main/README.md", true))()
