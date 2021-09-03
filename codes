@@ -6,13 +6,6 @@
 ╚█████╔╝██║░░██║░░░██║░░░██████╔╝░░░██║░░░██║░░██║███████╗  ╚█████╔╝███████╗██║░╚███║░░░██║░░░██║░░██║██║░░██║███████╗
 ░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝  ░╚════╝░╚══════╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
 
-██╗░░██╗  ███╗░░██╗░█████╗░██╗░░░██╗░█████╗░  ░██████╗░██╗░░░██╗██╗
-╚██╗██╔╝  ████╗░██║██╔══██╗██║░░░██║██╔══██╗  ██╔════╝░██║░░░██║██║
-░╚███╔╝░  ██╔██╗██║██║░░██║╚██╗░██╔╝███████║  ██║░░██╗░██║░░░██║██║
-░██╔██╗░  ██║╚████║██║░░██║░╚████╔╝░██╔══██║  ██║░░╚██╗██║░░░██║██║
-██╔╝╚██╗  ██║░╚███║╚█████╔╝░░╚██╔╝░░██║░░██║  ╚██████╔╝╚██████╔╝██║
-╚═╝░░╚═╝  ╚═╝░░╚══╝░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝  ░╚═════╝░░╚═════╝░╚═╝
-
 Crystal Central Verison One [ -- DISCONTINUED -- ]
 
 -- v to close
@@ -35,20 +28,3 @@ Swagmode No Mod Prems
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/swagnomodusers"))()
 
 Crystal Central's Group, https://www.roblox.com/groups/11358596/Crystal-Central#!/about.
-
-
----------------------------------------------------------------------------------------------
-
--- // - Nova Gui - Arsenal - \\ --
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-Arsenal/main/README.md", true))()
-
--- // - Nova Gui - Murder Mystery 2 - \\ --
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-Murder-Mystery/main/README.md", true))()
-
--- // - Nova Gui - The Maze - \\ --
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/NovasGuiTheMaze/main/README.md", true))()
-
--- // Nova Gui - Da Hood - \\ --
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-New/main/README.md", true))()
-
-Nova Gui's key: https://direct-link.net/259153/NovaGuiKeyyyyyyyyyyyy
