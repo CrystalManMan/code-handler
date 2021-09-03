@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystac
 
 Crystal Central [ -- NOT DISCONTINUED -- ]
 -- v to close
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/BROSTOPUSINGPASTEBIN"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/wonder"))()
 
 Sever Crash [ Have 10k cash ] 
 In Group: https://www.roblox.com/groups/11358596/Crystal-Central#!/about
