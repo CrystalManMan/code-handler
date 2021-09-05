@@ -15,10 +15,9 @@ Crystal Central [ -- NOT DISCONTINUED -- ]
 -- v to close
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/wonder"))()
 
-Sever Crash [ Have 10k cash ] 
-In Group: https://www.roblox.com/groups/11358596/Crystal-Central#!/about
-getgenv().CreditsCrystalCentral = true -- disable = not work
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/crashnewcc"))()
+Crystal Central's Sever Crash [ Have 1.5k cash ] 
+-- v to close, proof it works: https://www.youtube.com/watch?v=blp4zk3bcb0
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/updatedcrash.lua"))()
 
 Crystal Central Aimlock  [ -- NOT DISCONTINUED -- ]
 Q To Lock/Unlock
