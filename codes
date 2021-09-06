@@ -20,7 +20,16 @@ Crystal Central's Sever Crash [ Have 1.5k cash ]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/updatedcrash.lua"))()
 
 Crystal Central Aimlock  [ -- NOT DISCONTINUED -- ]
-Q To Lock/Unlock
+getgenv().Aimlock = true 
+getgenv().AimlockType = "Tool"
+
+-- Aimlock Types --
+"Tool" -- Aimlock Tool
+"SilentAim" -- Silent Aim
+"Keybind" -- Q To Lock Like Old One
+
+Updated aimlock!
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/aimlock", true))()
 
 Swagmode No Mod Prems
