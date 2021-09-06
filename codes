@@ -25,7 +25,7 @@ getgenv().AimlockType = "Tool"
 
 Updated aimlock!
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/aimlock", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/aimlock"))()
 
 Swagmode No Mod Prems
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/swagnomodusers"))()
