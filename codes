@@ -10,9 +10,8 @@ Crystal Central [ -- NOT DISCONTINUED -- ]
 -- v to close
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/wonder"))()
 
-Crystal Central's Sever Crash [ Have 1.5k cash ] 
--- v to close, proof it works: https://www.youtube.com/watch?v=blp4zk3bcb0
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/updatedcrash.lua"))()
+Crystal Central's Sever Crash [ Have 750 cash ] 
+https://discord.gg/43jPGPvsjj
 
 Crystal Central Aimlock  [ -- NOT DISCONTINUED -- ]
 getgenv().Aimlock = true 
