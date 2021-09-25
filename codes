@@ -11,20 +11,10 @@ Crystal Central [ -- NOT DISCONTINUED -- ]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/wonder"))()
 
 Crystal Central's Sever Crash [ Have 750 cash ] 
-https://discord.gg/43jPGPvsjj
+discord.gg/crystalcentralll
 
 Crystal Central Aimlock  [ -- NOT DISCONTINUED -- ]
-getgenv().Aimlock = true 
-getgenv().AimlockType = "Tool"
-
--- Aimlock Types --
-"Tool" -- Aimlock Tool
-"SilentAim" -- Silent Aim
-"Keybind" -- Q To Lock Like Old One
-
-Updated aimlock!
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/aimlock"))()
+https://discord.gg/vXSr7wvd
 
 Swagmode No Mod Prems
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalManMan/crystacentral/main/swagnomodusers"))()
